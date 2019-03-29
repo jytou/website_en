@@ -46,3 +46,4 @@ These topics are in french right now.
 * *[RTM in color](http://cuckooland.free.fr/TheRtmInColor.html)* by cuckooland
 * *[RTM for kids](http://cuckooland.free.fr/TheRtmForTheKids.html)* by cuckooland
 * *[RTM in details](http://money.ploc.be/)* by Emmanuel Bultot
+* *[Money: What You Don't Know](https://blog.denislaplume.com/2017/09/29/the-book-money-what-you-dont-now-is-out/)* by Denis La Plume
